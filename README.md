@@ -6,8 +6,10 @@ This online portfolio was made with the following languages:
 > CSS
 > HTML
 > JavaScript
+> Node.js
 > React.Js
 
 ## Back-End
 
 > JavaScript
+> Node.js
